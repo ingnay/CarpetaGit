@@ -1,1 +1,2 @@
-Se generan cambios del archivo para guardar algo nuevo
+Se generan cambios del archivo para guardar algo nuevo.
+Hoy empezamos clases de git en Cesde.
